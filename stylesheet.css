@@ -1,0 +1,15 @@
+* black;
+
+p {
+  color: ;
+
+}
+
+h1, h2, h3 {
+  color: grey;
+  text-transform: capitalize;
+}
+
+img {
+  width: 100
+}
